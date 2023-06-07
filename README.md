@@ -1,2 +1,2 @@
-# GameMaker-Bugs
-Public tracking for GameMaker bugs
+# GameMaker Feature Requests
+Public tracking for GameMaker feature requests
