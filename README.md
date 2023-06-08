@@ -31,3 +31,5 @@ Please note that you may not have advanced notification of your request being wo
 
 
 We thank you for your feedback and look forward to hearing your feature requests!
+
+[Submit a Feature Request](https://github.com/YoYoGames/GameMaker-Feature-Requests/issues/new/choose)
