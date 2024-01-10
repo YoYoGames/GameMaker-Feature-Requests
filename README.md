@@ -1,4 +1,4 @@
-# GameMaker Feature Requests
+# GameMaker Feature Requests have now moved to the [GameMaker Bugs repo](https://github.com/YoYoGames/GameMaker-Bugs/issues?q=is%3Aopen+is%3Aissue+label%3A"feature+request")
  
 Welcome to the home for GameMaker Feature Requests! 
 
